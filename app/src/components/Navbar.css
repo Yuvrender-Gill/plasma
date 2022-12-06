@@ -1,0 +1,27 @@
+.dark-theme {
+    background-color: #111;
+}
+
+.plasma_icon {
+    width: calc(2.5vmin + 45px);
+}
+
+.plasma {
+    color: #e91e63;
+    font-family: "Valorant";
+    font-weight: bold;
+    font-size: 100%;
+    margin-top: 0.5%;
+}
+
+.top-bar-right-side-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 220px;
+}
+
+@font-face {
+    font-family: "Valorant";
+    src: url("../fonts/valorant.ttf");
+}
